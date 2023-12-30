@@ -13,7 +13,7 @@ Welcome to my Shopify development portfolio. Here, you'll find a collection of m
 - UI/UX
 
 ## About Me
-I'm Gabe, a passionate Shopify Developer dedicated to revolutionizing e-commerce. With a deep interest in technology, I specialize in creating engaging, functional, and visually appealing online stores.
+Hello! I'm Gabe, a passionate Shopify Developer with a rich 3-year background in software development, including a dedicated year enhancing e-commerce platforms on Shopify. My expertise lies in customizing existing Shopify themes to align perfectly with the unique aspirations of e-commerce business owners
 
 ## Contact
 - **Email**: [gvill005@gmail.com](mailto:gvill005@gmail.com)
