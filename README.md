@@ -5,12 +5,15 @@ Welcome to my Shopify development portfolio. Here, you'll find a collection of m
 
 ## Skills & Technologies
 - JavaScript
+- Shopify
 - HTML/CSS
 - Liquid
 - NodeJS
 - ExpressJS
 - React
 - UI/UX
+- Canva
+- Figma
 
 ## About Me
 Hello! I'm Gabe, a passionate Shopify Developer with a rich 3-year background in software development, including a dedicated year enhancing e-commerce platforms on Shopify. My expertise lies in customizing existing Shopify themes to align perfectly with the unique aspirations of e-commerce business owners
